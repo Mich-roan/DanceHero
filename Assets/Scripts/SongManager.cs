@@ -16,13 +16,17 @@ public class SongManager : MonoBehaviour
     {
         onSetSong?.Invoke();
         currentSong = song;
-        PlaySong();
     }
 
     public void PlaySong()
     {
         SoundManager.instance.PlayMusic(currentSong.songName);
         character.Play(currentSong.animationName, 0, 0f);
+    }
+
+    public  void GetReady()
+    {
+       character.Play(characterData.readyAnimationName, 0, 0f);
     }
 
     public void StopSong()
