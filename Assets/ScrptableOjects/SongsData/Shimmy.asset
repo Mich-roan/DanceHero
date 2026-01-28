@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   songName: Shim
   animationName: Shifflin
+  notesConfig: {fileID: 4900000, guid: 023d2e06b789c0148adc88b9794defae, type: 3}
+  speed: 200

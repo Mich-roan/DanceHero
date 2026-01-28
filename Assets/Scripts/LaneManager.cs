@@ -8,4 +8,8 @@ public class LaneManager : MonoBehaviour
    {
     return lanes [index];
    }
+   public int GetLaneCount()
+   {
+      return lanes.Length;
+   }
 }

@@ -10,7 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 360f8777d2ec11645b552b8d65cf6f51, type: 3}
-  m_Name: Year Zero
+  m_Name: Take down
   m_EditorClassIdentifier: Assembly-CSharp::SongData
-  songName: Year Zero
-  animationName: Head
+  songName: Takedown
+  animationName: Hip
+  notesConfig: {fileID: 4900000, guid: 023d2e06b789c0148adc88b9794defae, type: 3}
+  speed: 200

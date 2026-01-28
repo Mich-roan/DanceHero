@@ -1,0 +1,8 @@
+{
+    "notes":[
+        {"spawnTime": 1.0, "laneIndex": 0 },
+        {"spawnTime": 3.0, "laneIndex": 0 },
+        {"spawnTime": 3.0, "laneIndex": 0 },
+        {"spawnTime": 4.0, "laneIndex": 0 }
+    ]
+}
