@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   songName: Year Zero
   animationName: Head
-  notesConfig: {fileID: 4900000, guid: 023d2e06b789c0148adc88b9794defae, type: 3}
+  notesConfig: {fileID: 4900000, guid: cdde30f75f1ae5848a05f8dca2e6a288, type: 3}
   speed: 200
